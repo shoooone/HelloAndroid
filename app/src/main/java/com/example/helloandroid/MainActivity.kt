@@ -17,4 +17,6 @@ class MainActivity : AppCompatActivity() {
             textView.text = "ボタンがタップされました"
         }
     }
+
+    fun hoge(){}
 }
